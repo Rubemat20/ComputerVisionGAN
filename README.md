@@ -18,5 +18,5 @@ The goal in choosing these two sets of images was to have similarly defined imag
 
 Final results:
 
-[Old to Young Faces](Old to Young.jpg)
-[Young to Old Faces](Young to Old.jpg)
+![Old to Young Faces](Old%20to%20Young.png)
+![Young to Old Faces](Young%20to%20Old.png)
